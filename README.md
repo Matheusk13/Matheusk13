@@ -1,7 +1,7 @@
 ## Olá Mundo 👋
 
 - 🔭 Estou a procura de um estágio de Ti na área de desenvovimento.
-- 🌱 Estou estutando: C#, PHP, Python, CSS, HTML, entre outras.
+- 🌱 Estou estudando: JavaScript, Python, CSS, HTML, entre outras.
 - 📫 Email: matheuskevensf@hotmail.com
 
 <div align="center">
