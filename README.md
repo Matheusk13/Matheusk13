@@ -1,7 +1,7 @@
 ## Olá Mundo 👋
 
-- 🔭 Estou a procura de um estágio de Ti na área de desenvovimento.
-- 🌱 Estou estudando: JavaScript, Python, CSS, HTML, entre outras.
+- 🔭 Entusiasta de TI.
+- 🌱 Conhecimento: Outsystems, JavaScrit, Python, SCRUM, Kanban, entre outras.
 - 📫 Email: matheuskevensf@hotmail.com
 
 <div align="center">
